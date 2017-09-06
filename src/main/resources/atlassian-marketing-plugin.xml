@@ -1,0 +1,15 @@
+<atlassian-plugin-marketing>
+    <compatibility>
+        <product name="confluence" min="5.8.2" max="6.3.4"/>
+    </compatibility>
+    <logo image="ru/andreymarkelov/atlas/plugins/groupmentionsmacro/images/spacementions.png"/>
+    <banner image="ru/andreymarkelov/atlas/plugins/groupmentionsmacro/images/groupmentions1.png"/>
+    <highlights>
+        <highlight image="ru/andreymarkelov/atlas/plugins/groupmentionsmacro/images/groupmentions1.png" cropped="ru/andreymarkelov/atlas/plugins/groupmentionsmacro/images/groupmentions1.png"/>
+        <highlight image="ru/andreymarkelov/atlas/plugins/groupmentionsmacro/images/groupmentions2.png" cropped="ru/andreymarkelov/atlas/plugins/groupmentionsmacro/images/groupmentions2.png"/>
+        <highlight image="ru/andreymarkelov/atlas/plugins/groupmentionsmacro/images/groupmentions3.png" cropped="ru/andreymarkelov/atlas/plugins/groupmentionsmacro/images/groupmentions3.png"/>
+    </highlights>
+    <screenshots>
+        <screenshot image="ru/andreymarkelov/atlas/plugins/groupmentionsmacro/images/groupmentions1.png"/>
+    </screenshots>
+</atlassian-plugin-marketing>
